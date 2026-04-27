@@ -9,7 +9,7 @@
   <a href="https://yuvraj-singh-gohil-portfolio.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
   <a href="https://linkedin.com/in/yuvraj-singh-gohil" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:yuvrajgohil1817@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://drive.google.com/file/d/15uovoQigTiBcEfmZ2JpNUeGTEd1ZYgQg/view?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"/></a>
+  <a href="https://drive.google.com/file/d/10sf3YjxLrFkj9iNigvYdBV_gzhEKgt2O/view?usp=drive_link" target="_blank"><img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"/></a>
 </p>
 
 ---
@@ -48,6 +48,15 @@ Captures and compresses conversations from Claude, ChatGPT, and Cursor using **G
 Questions adapt in difficulty as you progress. Skipping a topic triggers "Focus Mode" to lock you in. Generates an **Interview DNA** report with AI analysis of your performance patterns.
 
 `Next.js 14` `Node.js` `Prisma` `SQLite` `JWT` `ShadCN UI` `TypeScript`
+
+---
+
+### 🎨 [ThinkSpace](https://github.com/yuvrajgohil24/ThinkSpace)
+> *Real-time infinite canvas for visual collaboration — live on Vercel*
+
+A Figma/Miro-style collaborative whiteboard where teams can sketch, brainstorm, and build diagrams together instantly. Powered by **Convex** for real-time sync across clients with zero polling — state updates propagate live as you draw.
+
+`Next.js` `TypeScript` `Convex` `Tailwind CSS` `ShadCN UI` · 🔗 [think-space-orpin.vercel.app](https://think-space-orpin.vercel.app)
 
 ---
 
