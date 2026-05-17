@@ -42,7 +42,7 @@ Captures and compresses conversations from Claude, ChatGPT, and Cursor using **G
 
 ---
 
-### 🎓 [Emtihaan — AI Interview Practice Platform](https://github.com/yuvrajgohil24/emtihaan)
+### 🎓 [Emtihaan — AI Interview Practice Platform](https://github.com/yuvrajgohil24/AI-Interview-Platform)
 > *Adaptive, full-stack interview prep with AI-driven insights*
 
 Questions adapt in difficulty as you progress. Skipping a topic triggers "Focus Mode" to lock you in. Generates an **Interview DNA** report with AI analysis of your performance patterns.
