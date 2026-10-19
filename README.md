@@ -55,7 +55,7 @@ Captures conversations from Claude and ChatGPT in one click, keeping message rol
 
 ---
 
-### 🎓 [Emtihaan — AI Interview Practice Platform](https://github.com/yuvrajgohil24/AI-Interview-Platform)
+### 🎓 [Emtihaan — AI Interview Practice Platform](https://github.com/yuvrajgohil24/AI-Interview-Platform) · [Live](https://emtihaan.vercel.app/)
 > *Adaptive interview prep with AI-driven insights*
 
 Question difficulty (Levels 1–5) adapts to your live performance across IT, Finance, HR, and Marketing. Skipping a topic triggers "Focus Mode", and every session ends with an **Interview DNA** report: a skill matrix and AI analysis of your patterns.
@@ -73,15 +73,6 @@ A Figma/Miro-style whiteboard where teams sketch and brainstorm together. **Conv
 
 ---
 
-### More Projects
-
-| Project | What it is | Stack |
-|---|---|---|
-| 🏠 [Estate-Edge](https://github.com/yuvrajgohil24/Estate-Edge) | Real estate platform with listings, advanced search, and buyer–seller connection | `React` `Node.js` `MongoDB` `JWT` `Cloudinary` |
-| 🏦 [Bank-Assist](https://github.com/yuvrajgohil24/Bank-Assist) · [Live](https://bank-assist.vercel.app) | Banking dashboard with Sentry error monitoring | `Next.js` `TypeScript` `Tailwind CSS` `Sentry` |
-
----
-
 ## 🛠️ Tech Stack
 
 **Frontend** — `React.js` `Next.js` `TypeScript` `Redux` `Tailwind CSS` `ShadCN UI` `Three.js`
@@ -94,7 +85,7 @@ A Figma/Miro-style whiteboard where teams sketch and brainstorm together. **Conv
 
 **DevOps & Cloud** — `Docker` `GitHub Actions` `Jenkins` `AWS (EC2, S3)` `Git`
 
-**Learning** — `Go` · `DevOps` · `Cloud infrastructure`
+**Learning** —  `DevOps` · `Cloud infrastructure`
 
 ---
 
