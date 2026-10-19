@@ -1,111 +1,125 @@
-<h1 align="center">Hey, I'm Yuvraj Singh Gohil 👋</h1>
+# Hey, I'm Yuvraj Singh Gohil 👋
 
-<p align="center">
-  <b>Full Stack Developer · MERN · Next.js · AI Integrations</b><br/>
-  Building real products — from AI-powered telephony systems to Chrome extensions that bridge AI platforms.
-</p>
+### Full Stack Developer | TypeScript · React · Node.js · AI Integrations
 
-<p align="center">
-  <a href="https://portfolio-2-0-phi-olive.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/yuvraj-singh-gohil" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:yuvrajgohil1817@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://drive.google.com/file/d/1aMFe0nMg3iwajmmphsxKyVo7BAJ9F_2D/view?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"/></a>
-</p>
+I build end-to-end applications, backend services, and AI-powered systems — from voice automation and API integrations to developer tools and real-time collaborative experiences.
+
+[Portfolio](https://portfolio-2-0-phi-olive.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/yuvraj-singh-gohil/) · [Resume](https://drive.google.com/file/d/1aMFe0nMg3iwajmmphsxKyVo7BAJ9F_2D/view?usp=sharing) · [Email](mailto:yuvrajgohil1817@gmail.com)
 
 ---
 
-## About Me
+## 👨‍💻 About Me
 
-I'm a Full Stack Developer from Rajasthan, India who builds end-to-end web and AI-integrated applications. I don't just clone tutorials — I design systems: a calling agent that uses Twilio + GPT-4o to onboard users via real phone calls, a Chrome extension that compresses AI chat context across Claude, ChatGPT, and Cursor, and a 3D portfolio that uses Three.js to make a first impression count.
+- Full Stack Developer focused on building practical, scalable web applications.
+- Experienced with React, Next.js, TypeScript, Node.js, REST APIs, and database integrations.
+- Interested in backend architecture, AI-powered products, asynchronous processing, and reliable integrations.
+- Exploring Go and strengthening my knowledge of cloud infrastructure and CI/CD.
 
-Currently deepening my backend architecture skills with **TypeScript**, **BullMQ**, and **Golang**, and exploring how AI services can be wired into production-grade systems.
+I enjoy solving real engineering problems, connecting services, and turning ideas into working products.
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🤖 [AI Calling Agent](https://github.com/yuvrajgohil24/ai-calling-agent)
-> *Production-ready automated telephony system for user onboarding*
+### 🤖 AI Calling Agent
 
-Triggers a personalized AI voice call within 30 minutes of user signup. Uses **BullMQ + Redis** for job scheduling, **Twilio Media Streams** for bidirectional audio, **OpenAI Whisper** for STT, **GPT-4o-mini** for conversation logic, and **ElevenLabs** for human-like voice synthesis — with a Twilio fallback for API outages.
+An AI-powered voice automation system for user onboarding.
 
-`TypeScript` `Node.js` `BullMQ` `Redis` `Twilio` `OpenAI` `ElevenLabs` `Docker`
+- Schedules background jobs using BullMQ and Redis.
+- Integrates Twilio Media Streams for real-time audio communication.
+- Uses speech-to-text, LLM-based conversation logic, and voice synthesis.
+- Includes fallback handling for external service failures.
 
----
+**Tech:** `TypeScript` `Node.js` `BullMQ` `Redis` `Twilio` `OpenAI` `Whisper` `ElevenLabs` `Docker`
 
-### 🌉 [ContextBridge](https://github.com/yuvrajgohil24/Context-Scrapper)
-> *Chrome Extension + Next.js app for shuttling AI context across platforms*
+[View Repository](https://github.com/yuvrajgohil24/ai-calling-agent)
 
-Captures and compresses conversations from Claude, ChatGPT, and Cursor using **Gemini 1.5 Flash**. One-click context export to clipboard. Built for AI-heavy workflows where session context is constantly lost between tools.
+### 🔍 DevLens
 
-`Next.js 15` `TypeScript` `Chrome Extension MV3` `Google Gemini SDK` `React 19`
+A developer-focused project built to demonstrate practical application development and engineering skills.
 
----
+**Tech:** Add the verified project technologies here.
 
-### 🎓 [Emtihaan — AI Interview Practice Platform](https://github.com/yuvrajgohil24/AI-Interview-Platform)
-> *Adaptive, full-stack interview prep with AI-driven insights*
+[View Repository](https://github.com/yuvrajgohil24/DevLens)
 
-Questions adapt in difficulty as you progress. Skipping a topic triggers "Focus Mode" to lock you in. Generates an **Interview DNA** report with AI analysis of your performance patterns.
+### 🌉 ContextBridge
 
-`Next.js 14` `Node.js` `Prisma` `SQLite` `JWT` `ShadCN UI` `TypeScript`
+A Chrome extension and web application designed to help transfer AI conversation context across tools.
 
----
+- Captures and compresses conversation context.
+- Supports workflows involving ChatGPT, Claude, and Cursor.
+- Uses AI-assisted context processing to make cross-tool workflows easier.
 
-### 🎨 [ThinkSpace](https://github.com/yuvrajgohil24/ThinkSpace)
-> *Real-time infinite canvas for visual collaboration — live on Vercel*
+**Tech:** `Next.js` `TypeScript` `React` `Chrome Extension MV3` `Google Gemini`
 
-A Figma/Miro-style collaborative whiteboard where teams can sketch, brainstorm, and build diagrams together instantly. Powered by **Convex** for real-time sync across clients with zero polling — state updates propagate live as you draw.
+[View Repository](https://github.com/yuvrajgohil24/Context-Scrapper)
 
-`Next.js` `TypeScript` `Convex` `Tailwind CSS` `ShadCN UI` · 🔗 [think-space-orpin.vercel.app](https://think-space-orpin.vercel.app)
+### 🎓 Emtihaan — AI Interview Practice
 
----
+An AI-assisted interview preparation platform with adaptive questions and personalized performance insights.
 
-### 🏠 [Estate-Edge](https://github.com/yuvrajgohil24/Estate-Edge)
-> *Full-stack real estate platform for listings, search, and buyer-seller connection*
+**Tech:** `Next.js` `TypeScript` `Node.js` `Prisma` `SQLite` `JWT` `ShadCN UI`
 
-Users can post properties, search with advanced filters, and connect directly with buyers or sellers. Features JWT auth, **Cloudinary** for image uploads, and a fully responsive UI across devices.
+[View Repository](https://github.com/yuvrajgohil24/AI-Interview-Platform)
 
-`React.js` `Node.js` `Express.js` `MongoDB` `JWT` `Cloudinary` `SCSS` `Material UI`
+### 🎨 ThinkSpace
 
----
+A real-time collaborative infinite canvas for brainstorming, sketching, and visual collaboration.
 
-### 🏦 [Bank-Assist](https://github.com/yuvrajgohil24/Bank-Assist)
-> *Banking dashboard built with Next.js and TypeScript — live on Vercel*
+- Supports collaborative canvas interactions.
+- Uses Convex for real-time synchronization.
+- Provides a responsive interface for visual workflows.
 
-A production-deployed financial assistant UI with clean TypeScript architecture, **Sentry** integrated for real-time error monitoring, and Next.js App Router. One of the few projects in this list with a live public URL.
+**Tech:** `Next.js` `TypeScript` `Convex` `Tailwind CSS` `ShadCN UI`
 
-`Next.js` `TypeScript` `Tailwind CSS` `Sentry` `Vercel` · 🔗 [bank-assist.vercel.app](https://bank-assist.vercel.app)
+[Repository](https://github.com/yuvrajgohil24/ThinkSpace) · [Live Demo](https://think-space-orpin.vercel.app/)
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Frontend** — `React.js` `Next.js` `Redux` `Tailwind CSS` `Three.js` `ShadCN UI`
+**Frontend**
 
-**Backend** — `Node.js` `Express.js` `TypeScript` `Prisma` `MongoDB` `MySQL` `SQLite`
+`JavaScript` `TypeScript` `React` `Next.js` `Redux` `Tailwind CSS` `Three.js`
 
-**AI & Services** — `OpenAI API` `Google Gemini` `ElevenLabs` `Twilio`
+**Backend**
 
-**Infrastructure** — `BullMQ` `Redis` `Docker` `Git` `Vite`
+`Node.js` `Express.js` `REST APIs` `Prisma`
 
-**Learning** — `Golang`
+**Databases & Queues**
+
+`MongoDB` `PostgreSQL` `MySQL` `SQLite` `Redis` `BullMQ`
+
+**AI & Integrations**
+
+`OpenAI API` `Google Gemini` `Twilio` `ElevenLabs`
+
+**Tools & Infrastructure**
+
+`Git` `GitHub` `Docker` `AWS` `CI/CD`
+
+**Currently Learning**
+
+`Go` · Backend architecture · Cloud infrastructure
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Overview
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=yuvrajgohil24&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="165" alt="stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yuvrajgohil24&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="languages"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yuvrajgohil24&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuvrajgohil24&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Most used programming languages" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yuvrajgohil24&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 ---
 
-## 🔗 Find Me Online
+## 🤝 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yuvraj-singh-gohil)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/YuvrajS35103325)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-298D46?style=flat-square&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/yuvrajgohil)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/yuvrajgohil1817)
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yuvrajgohil24&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" /> </p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuvraj-singh-gohil/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://portfolio-2-0-phi-olive.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/yuvrajgohil24)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:yuvrajgohil1817@gmail.com)
